@@ -52,11 +52,12 @@ section h2 {
     
 }
 section p {
-    margin-bottom: 8px;
+    margin-bottom: 12px;
 }
 .picture {
-    margin-right: 32px;
+    margin-right: 32px;;
 }
+
 
 header h1{
     font-weight: normal;
@@ -73,7 +74,7 @@ body, input, textarea{
     font-family: 'Work Sans', sans-serif;
 }
 img{
-    width: 1800px;
+    width: 3800px;
     height: 700px;
 }
 section {
